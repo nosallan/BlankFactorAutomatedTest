@@ -1,14 +1,14 @@
 # Blank Factor Automation test
 
 This code is for the automation test for th application to Blank Factor. According to the request:
-B) The assignment’s next step is to automate some parts of our website and send us the code as a .zip or .rar file.
+The assignment’s next step is to automate some parts of our website and send us the code as a .zip or .rar file.
 
-Navigate to “http://blankfactor.com”
-Open the “Blog” section
-Scroll down to “Why Fintech in Latin America Is Having a Boom” and click the post by Sofia Gonzalez
-Make a validation (to verify the script is on the correct page by verifying the URL and some of the text on the page)
-Subscribe to the newsletter using the subscribe form.
-Go back to the blog section and print a list of all post titles with related links.
+1- Navigate to “http://blankfactor.com”
+2- Open the “Blog” section
+3- Scroll down to “Why Fintech in Latin America Is Having a Boom” and click the post by Sofia Gonzalez
+4- Make a validation (to verify the script is on the correct page by verifying the URL and some of the text on the page)
+5- Subscribe to the newsletter using the subscribe form.
+6- Go back to the blog section and print a list of all post titles with related links.
 
 ## Pre-requisites
 
