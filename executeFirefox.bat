@@ -1,3 +1,3 @@
-mvn test -DtestSuite=src\main\java\MasterRunner\testngBlankFactorFirefox.xml
+call mvn test -DtestSuite=src\main\java\MasterRunner\testngBlankFactorFirefox.xml
 pause
 
