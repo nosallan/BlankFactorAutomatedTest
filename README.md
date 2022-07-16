@@ -59,6 +59,9 @@ At the end of the execution we can find the report on the folder ExtentOutput wi
 ## Recommendations
 We recommend using headless mode because it does not open a window and the user can continue working with completely normally during execution
 
+## Author
+Allan Campos Herrera [CV](https://allancamposcv.com/)
+
 
 
 
