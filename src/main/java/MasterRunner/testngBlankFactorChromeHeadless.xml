@@ -1,0 +1,9 @@
+<suite name="TestingFrame">
+    <listeners>
+        <listener class-name="listeners.chromeHeadlessExecution" />
+    </listeners>
+    <suite-files>
+        <suite-file path="./src/main/java/tests/BlogSection/TestBFTestsNGRunner.xml" />
+    </suite-files>
+</suite>
+

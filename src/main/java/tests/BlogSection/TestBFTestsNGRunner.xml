@@ -1,0 +1,7 @@
+<suite name="Blank factor test" time-out="900000" >
+    <test name="Blank Factor Test" group-by-instances="true">
+        <classes>
+            <class name="tests.BlogSection.BlogSection" />
+        </classes>
+    </test>
+</suite>
