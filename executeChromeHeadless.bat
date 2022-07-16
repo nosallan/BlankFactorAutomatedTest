@@ -1,2 +1,2 @@
-mvn test -DtestSuite=src\main\java\MasterRunner\testngBlankFactorChromeHeadless.xml
+call mvn test -DtestSuite=src\main\java\MasterRunner\testngBlankFactorChromeHeadless.xml
 pause
